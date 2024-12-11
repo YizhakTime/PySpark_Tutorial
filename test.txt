@@ -1,1 +1,0 @@
-Hello this is a test for my PySpark application, I hope you will enjoy and learn something new, I know I did.
